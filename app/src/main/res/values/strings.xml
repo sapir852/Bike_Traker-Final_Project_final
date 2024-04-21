@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bike_Traker-Final_Project</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string name="permission_rationale">Location permission is needed for core functionality. Please Enable it</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality. Enable it manually</string>
+    <string name="settings">Settings</string>
+</resources>
